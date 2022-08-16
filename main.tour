@@ -1,0 +1,31 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Fix The Broken Clock",
+  "steps": [
+    {
+      "file": "index.html",
+      "line": 2,
+      "description": "Hey! 👋 Welcome to the Fix The Broken Clock workshop. Something is very wrong with this clock, and we need your help to fix it. Use this tour to guide you through the app, and learn how to interact with its live coding environment. Try changing their text content and watch it take effect immediately!\n\nClick the `Next` link below to keep learning 👇"
+    },
+    {
+      "file": "index.html",
+      "line": 22,
+      "description": "Our clock has a question mark instead of the number 6. Update the `<h1 id='six'>?</h1>` to render the number 6!"
+    },
+    {
+      "file": "style.css",
+      "line": 13,
+      "description": "Great job at fixing the numbers over the clock. Check out background colors for the clock. Hover over the `<hex>` color to choose the background color of your choice."
+    },
+    {
+      "file": "main.js",
+      "line": 14,
+      "description": "The hour hand is moving just as fast as the second hand. Let’s fix this by changing the word `seconds` on line 14 to `hours`."
+    },
+    {
+      "file": "main.js",
+      "line": 18,
+      "description": "Mission complete! Thank you for completing this workshop."
+    }
+  ]
+}

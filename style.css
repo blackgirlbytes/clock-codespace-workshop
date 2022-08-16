@@ -1,5 +1,4 @@
 html {
-      background:#018DED url("/home/resilient/Documents/clock/biel-morro-128512-unsplash.jpg");
       background-size:cover;
       font-family:'helvetica neue';
       text-align: center;
@@ -10,6 +9,8 @@ html {
     text-shadow: 2px 2px 4px #000000;
   }
     body {
+      /*change the background color to a gradient of your choice*/
+      background: linear-gradient(to bottom right, #47D457, #0F1CCD);
       margin: 0;
       font-size: 2rem;
       display:flex;
