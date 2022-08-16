@@ -18,12 +18,12 @@
       "description": "Great job at fixing the numbers over the clock. Check out background colors for the clock. Hover over the `<hex>` color to choose the background color of your choice."
     },
     {
-      "file": "main.js",
+      "file": "script.js",
       "line": 14,
       "description": "The hour hand is moving just as fast as the second hand. Let’s fix this by changing the word `seconds` on line 14 to `hours`."
     },
     {
-      "file": "main.js",
+      "file": "script.js",
       "line": 18,
       "description": "Mission complete! Thank you for completing this workshop."
     }
