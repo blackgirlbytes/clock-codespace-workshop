@@ -11,6 +11,8 @@ In this workshop, participants are challenged to resolve and fix these issues. T
 - CodeSwing
 - CodeTour
 
+This is made to show the value of running a workshop in Codespaces.
+
 ## Live site
 The site is live here: https://blackgirlbytes.github.io/clock-codespace-workshop/
 
