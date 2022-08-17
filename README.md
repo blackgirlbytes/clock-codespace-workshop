@@ -15,7 +15,7 @@ In this workshop, participants are challenged to resolve and fix these issues. T
 The site is live here: https://blackgirlbytes.github.io/clock-codespace-workshop/
 
 ## Who can use it?
-Anyone can use it or tweak it. It is under an MIT license. 
+Anyone can use it or tweak it. It is under an https://github.com/blackgirlbytes/clock-codespace-workshop/blob/main/LICENSE. 
 
 ## Resources and links
 
