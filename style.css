@@ -10,7 +10,7 @@ html {
   }
     body {
       /*change the background color to a gradient of your choice*/
-      background: linear-gradient(to bottom right, #47D457, #0F1CCD);
+      background: linear-gradient(to bottom right, red, #0F1CCD);
       margin: 0;
       font-size: 2rem;
       display:flex;
