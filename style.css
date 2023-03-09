@@ -2,15 +2,15 @@ html {
       background-size:cover;
       font-family:'helvetica neue';
       text-align: center;
-      font-size: 7px;
+      font-size: 9px;
     }
   h1{
-    color: #FFC312;
+    color: #FFD312;
     text-shadow: 2px 2px 8px #000000;
   }
     body {
       /*change the background color to a gradient of your choice*/
-      background: linear-gradient(to bottom right, #47D457, #0F1CCD);
+      background: linear-gradient(to bottom right, #484848D457, #0F1DCD);
       margin: 0;
       font-size: 2rem;
       display:flex;
